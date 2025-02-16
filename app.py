@@ -4,7 +4,7 @@ from PIL import Image
 import time
 
 # Set Gemini API Key (Replace with your actual key)
-GEMINI_API_KEY = "AIz_o4gaSSkC0L1Szib2N59tPzBwsdrtuikvUsE"
+GEMINI_API_KEY = "API_KEY"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Banner Image URL
